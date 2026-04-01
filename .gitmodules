@@ -1,0 +1,3 @@
+[submodule "source/vhdl"]
+	path = source/vhdl
+	url = https://github.com/kowsick1/myproject1.git
